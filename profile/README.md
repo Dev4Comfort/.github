@@ -1,5 +1,5 @@
 # Dev4Comfort
 > Developed for comfort
 
-### Service
-1. [Heroku AWaker](https://awaker.dist.so/)
+## Service
+* [Heroku AWaker](https://awaker.dist.so/)
